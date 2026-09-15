@@ -1,5 +1,5 @@
-# Simple First-Person Example Code
-# Requires a Rigidbody, Main Collider, Detection Collider (placed at the feet with 'Is Trigger' enabled), and Player Input component.
+// Simple First-Person Example Code
+// Requires a Rigidbody, Main Collider, Detection Collider (placed at the feet with 'Is Trigger' enabled), and Player Input component.
     
 using UnityEngine;
 using UnityEngine.InputSystem;
